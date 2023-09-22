@@ -1,7 +1,7 @@
 # Titanic_Machine_Learning_from_Disaster
 **This is the legendary Titanic ML competition : : use machine learning to create a model that predicts which passengers survived the Titanic shipwreck.**
 
-**The Challenge**
+# **The Challenge**
 
 The sinking of the Titanic is one of the most infamous shipwrecks in history.
 
@@ -11,7 +11,7 @@ While there was some element of luck involved in surviving, it seems some groups
 
 In this challenge, we ask you to build a predictive model that answers the question: “what sorts of people were more likely to survive?” using passenger data (ie name, age, gender, socio-economic class, etc).
 
-**What Data Will I Use in This Competition?**
+# **What Data Will I Use in This Competition?**
 
 In this competition, you’ll gain access to two similar datasets that include passenger information like name, age, gender, socio-economic class, etc. One dataset is titled train.csv and the other is titled test.csv.
 
